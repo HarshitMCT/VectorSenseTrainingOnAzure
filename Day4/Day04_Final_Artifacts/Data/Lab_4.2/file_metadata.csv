@@ -1,0 +1,4 @@
+sourceFile,targetFile
+customers.csv,customers.parquet
+products.csv,products.parquet
+transactions.csv,transactions.parquet
